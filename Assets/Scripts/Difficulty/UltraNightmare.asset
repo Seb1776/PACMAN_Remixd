@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee508b37f2bb7e64b9e88b00df6c4fc0, type: 3}
+  m_Name: UltraNightmare
+  m_EditorClassIdentifier: 
+  difficultyName: ULTRA-NIGHTMARE
+  difficultyMusicMode: 1
+  customMusic: {fileID: 8300000, guid: da55410e331a8c14787a36aaa2d392b8, type: 3}
+  ghostConfigs:
+  - ghostName: blinky
+    timeToRelease: 0
+    ghostMoveSpeed: 11
+    ghostConsumedSpeed: 20
+  - ghostName: pinky
+    timeToRelease: 2
+    ghostMoveSpeed: 11
+    ghostConsumedSpeed: 20
+  - ghostName: inky
+    timeToRelease: 3
+    ghostMoveSpeed: 11
+    ghostConsumedSpeed: 20
+  - ghostName: clyde
+    timeToRelease: 4
+    ghostMoveSpeed: 11
+    ghostConsumedSpeed: 20
+  scatterModeTimes: 00000000000000000000000000000000
+  chaseModeTimes: 2d0000002d0000002d0000002d000000
+  maxIterationModes: 1
+  superPelletMaxDuration: 3
+  pacManSpeed: 11
+  pacManStartingLives: 0
+  fruitLifeTime: 3

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee508b37f2bb7e64b9e88b00df6c4fc0, type: 3}
+  m_Name: Medium
+  m_EditorClassIdentifier: 
+  difficultyName: Medium
+  difficultyMusicMode: 0
+  customMusic: {fileID: 0}
+  ghostConfigs:
+  - ghostName: blinky
+    timeToRelease: 0
+    ghostMoveSpeed: 4
+    ghostConsumedSpeed: 10
+  - ghostName: pinky
+    timeToRelease: 8
+    ghostMoveSpeed: 5
+    ghostConsumedSpeed: 10
+  - ghostName: inky
+    timeToRelease: 15
+    ghostMoveSpeed: 4
+    ghostConsumedSpeed: 10
+  - ghostName: clyde
+    timeToRelease: 18
+    ghostMoveSpeed: 3
+    ghostConsumedSpeed: 10
+  scatterModeTimes: 0a0000000a0000000800000008000000
+  chaseModeTimes: 0a0000000a0000000a0000000a000000
+  maxIterationModes: 3
+  superPelletMaxDuration: 7.5
+  pacManSpeed: 7
+  pacManStartingLives: 3
+  fruitLifeTime: 15

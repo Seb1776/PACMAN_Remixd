@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 3580a0df3e44494428a8d1758f6195ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5532651504918200883
+    second: ingame_maze_tileset_1586x1907_t57_0
+  - first:
+      213: -3878571062306364562
+    second: ingame_maze_tileset_1586x1907_t57_1
+  - first:
+      213: 5597310943467002908
+    second: ingame_maze_tileset_1586x1907_t57_2
+  - first:
+      213: 7616324419317440126
+    second: ingame_maze_tileset_1586x1907_t57_3
+  - first:
+      213: 2492561693899315997
+    second: ingame_maze_tileset_1586x1907_t57_4
+  - first:
+      213: 1171004542189959013
+    second: ingame_maze_tileset_1586x1907_t57_5
+  - first:
+      213: 6379364041076986944
+    second: ingame_maze_tileset_1586x1907_t57_6
+  - first:
+      213: -2944200461399279062
+    second: ingame_maze_tileset_1586x1907_t57_7
+  - first:
+      213: 67783793792826922
+    second: ingame_maze_tileset_1586x1907_t57_8
+  - first:
+      213: 2458850353458812817
+    second: ingame_maze_tileset_1586x1907_t57_9
+  - first:
+      213: 2130781155726068105
+    second: ingame_maze_tileset_1586x1907_t57_10
+  - first:
+      213: -2465907199656926419
+    second: ingame_maze_tileset_1586x1907_t57_11
+  - first:
+      213: 5484359519492640148
+    second: ingame_maze_tileset_1586x1907_t57_12
+  - first:
+      213: 2539689558423925432
+    second: ingame_maze_tileset_1586x1907_t57_13
+  - first:
+      213: 7865129888572182836
+    second: ingame_maze_tileset_1586x1907_t57_14
+  - first:
+      213: -8746948387344318571
+    second: ingame_maze_tileset_1586x1907_t57_15
+  - first:
+      213: 5850356977590985653
+    second: ingame_maze_tileset_1586x1907_t57_16
+  - first:
+      213: 8802545867225014795
+    second: ingame_maze_tileset_1586x1907_t57_17
+  - first:
+      213: 7517819939148653715
+    second: ingame_maze_tileset_1586x1907_t57_18
+  - first:
+      213: 2116930306045947163
+    second: ingame_maze_tileset_1586x1907_t57_19
+  - first:
+      213: -8699158192182339145
+    second: ingame_maze_tileset_1586x1907_t57_20
+  - first:
+      213: -1139905753776293608
+    second: ingame_maze_tileset_1586x1907_t57_21
+  - first:
+      213: -994396509618415733
+    second: ingame_maze_tileset_1586x1907_t57_22
+  - first:
+      213: 8625484377051365991
+    second: ingame_maze_tileset_1586x1907_t57_23
+  - first:
+      213: -4254803020564703275
+    second: ingame_maze_tileset_1586x1907_t57_24
+  - first:
+      213: 4904520482330425081
+    second: ingame_maze_tileset_1586x1907_t57_25
+  - first:
+      213: 5394665252974231366
+    second: ingame_maze_tileset_1586x1907_t57_26
+  - first:
+      213: 5117852256237962584
+    second: ingame_maze_tileset_1586x1907_t57_27
+  - first:
+      213: 8252991126803325117
+    second: ingame_maze_tileset_1586x1907_t57_28
+  - first:
+      213: 4887197278608852209
+    second: ingame_maze_tileset_1586x1907_t57_29
+  - first:
+      213: -8744024217166289822
+    second: ingame_maze_tileset_1586x1907_t57_30
+  - first:
+      213: 6722944359788901355
+    second: ingame_maze_tileset_1586x1907_t57_31
+  - first:
+      213: 4880789968187298975
+    second: ingame_maze_tileset_1586x1907_t57_32
+  - first:
+      213: -3192771357270357301
+    second: ingame_maze_tileset_1586x1907_t57_33
+  - first:
+      213: 456451388359192018
+    second: ingame_maze_tileset_1586x1907_t57_34
+  - first:
+      213: 8387291530990756595
+    second: ingame_maze_tileset_1586x1907_t57_35
+  - first:
+      213: 2374999924012525662
+    second: ingame_maze_tileset_1586x1907_t57_36
+  - first:
+      213: -6687780955206074437
+    second: ingame_maze_tileset_1586x1907_t57_37
+  - first:
+      213: 8248324020258831466
+    second: ingame_maze_tileset_1586x1907_t57_38
+  - first:
+      213: -4575981794129713301
+    second: ingame_maze_tileset_1586x1907_t57_39
+  - first:
+      213: 4262971891788589796
+    second: ingame_maze_tileset_1586x1907_t57_40
+  - first:
+      213: -8661636886092220456
+    second: ingame_maze_tileset_1586x1907_t57_41
+  - first:
+      213: 4918188343750890692
+    second: ingame_maze_tileset_1586x1907_t57_42
+  - first:
+      213: -6334113313129993468
+    second: ingame_maze_tileset_1586x1907_t57_43
+  - first:
+      213: 8416328685080825961
+    second: ingame_maze_tileset_1586x1907_t57_44
+  - first:
+      213: -1372485426389828016
+    second: ingame_maze_tileset_1586x1907_t57_45
+  - first:
+      213: 2985036602258113733
+    second: ingame_maze_tileset_1586x1907_t57_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf15ff4c21833b0800000000000000
+      internalID: -5532651504918200883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ae1b1b2c8c2ac0800000000000000
+      internalID: -3878571062306364562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd1c2b5a4adad40800000000000000
+      internalID: 5597310943467002908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9c83d4be92b960800000000000000
+      internalID: 7616324419317440126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b5d9987ab579220800000000000000
+      internalID: 2492561693899315997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f9974d6e304010800000000000000
+      internalID: 1171004542189959013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445b49cbcd088850800000000000000
+      internalID: 6379364041076986944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a31c687491427d0800000000000000
+      internalID: -2944200461399279062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 304
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ebc865001d0f000800000000000000
+      internalID: 67783793792826922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19791c17e579f1220800000000000000
+      internalID: 2458850353458812817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890629fb2e029d10800000000000000
+      internalID: 2130781155726068105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ee53877657cdd0800000000000000
+      internalID: -2465907199656926419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d04e3fceb5c1c40800000000000000
+      internalID: 5484359519492640148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b270a1923ace3320800000000000000
+      internalID: 2539689558423925432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43117a066fd862d60800000000000000
+      internalID: 7865129888572182836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7aa7f8c89c9680800000000000000
+      internalID: -8746948387344318571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e982bca4a03150800000000000000
+      internalID: 5850356977590985653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 243
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a70f04dce82a70800000000000000
+      internalID: 8802545867225014795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ed4e4769a45860800000000000000
+      internalID: 7517819939148653715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da02ab5e8d06d10800000000000000
+      internalID: 2116930306045947163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9da0ed6b1664780800000000000000
+      internalID: -8699158192182339145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197db4a1cd3e20f0800000000000000
+      internalID: -1139905753776293608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875e4e94a13332f0800000000000000
+      internalID: -994396509618415733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76204d55750e3b770800000000000000
+      internalID: 8625484377051365991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75bf91237e3f4c0800000000000000
+      internalID: -4254803020564703275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6bee6b46b501440800000000000000
+      internalID: 4904520482330425081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 183
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ffba52773bdda40800000000000000
+      internalID: 5394665252974231366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cef1f283460740800000000000000
+      internalID: 5117852256237962584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0209f14b3888270800000000000000
+      internalID: 8252991126803325117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48cba0800d2d340800000000000000
+      internalID: 4887197278608852209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e3646d4cf6a680800000000000000
+      internalID: -8744024217166289822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3fee98642bc4d50800000000000000
+      internalID: 6722944359788901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941815dd9c0cb340800000000000000
+      internalID: 4880789968187298975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacbd8dd5ff0b3d0800000000000000
+      internalID: -3192771357270357301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd226c8e14a55600800000000000000
+      internalID: 456451388359192018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 123
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a85ca535a56470800000000000000
+      internalID: 8387291530990756595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58a85cf8d1b5f020800000000000000
+      internalID: 2374999924012525662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb15597aa3033a0800000000000000
+      internalID: -6687780955206074437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c79d3befee77270800000000000000
+      internalID: 8248324020258831466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b676e368dc8de70c0800000000000000
+      internalID: -4575981794129713301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa881795e192b30800000000000000
+      internalID: 4262971891788589796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_41
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77d07b42fabc780800000000000000
+      internalID: -8661636886092220456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_42
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41dbfad3ae04440800000000000000
+      internalID: 4918188343750890692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b60d35085b818a0800000000000000
+      internalID: -6334113313129993468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_44
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 62
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9605c23f85eccc470800000000000000
+      internalID: 8416328685080825961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e32a4c6c3f3fce0800000000000000
+      internalID: -1372485426389828016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ingame_maze_tileset_1586x1907_t57_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4422f69fafc6920800000000000000
+      internalID: 2985036602258113733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dfab421261df0a46bfd2fb11db7aab3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

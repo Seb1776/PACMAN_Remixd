@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40647b71b7fb1b84bbd735cc2edc1360, type: 3}
+  m_Name: Classic
+  m_EditorClassIdentifier: 
+  mazeName: Classic
+  mazeActs:
+  - fruitsToAppear:
+    - {fileID: 8332027565497771990, guid: c6543faea487ea54898c8de970076850, type: 3}
+    - {fileID: 2392444039825903005, guid: b43d95287a73aed479a20d8831257d3d, type: 3}
+    - {fileID: 4433841510815975300, guid: 366b6b2b42149f147b8d9110a8724135, type: 3}
+    - {fileID: 5970415065398937664, guid: e8e426a99d43c3646a27457808b1a7dc, type: 3}
+    - {fileID: 5766062132042616913, guid: e7e64c72cea343a449bf6c6eebb79f5a, type: 3}
+  - fruitsToAppear:
+    - {fileID: 1824928407515144753, guid: acc46e489c5065e48aef96bc0200770c, type: 3}
+    - {fileID: 6062668634867089645, guid: 39af6586fdf376946bde10d5c5b4cffd, type: 3}
+    - {fileID: 4999733107032430373, guid: afb62214ab925904c94a6a50b12978a8, type: 3}
+    - {fileID: 9064051961007023138, guid: 241c0b6ea763802409cb0b4aceff89bd, type: 3}
+    - {fileID: 6309625153078687101, guid: 550751b1c45fa4d42815b2ffab20ab44, type: 3}
+  - fruitsToAppear:
+    - {fileID: 1543197450195175469, guid: fa7d8d512d1e239489593cf2760b18f2, type: 3}
+    - {fileID: 4776316435566918384, guid: cdde868f0b3aed248bdcb26fb5f05bcd, type: 3}
+    - {fileID: 1922658216954350118, guid: fc5245a7ee050ac449c557f48fbe04d7, type: 3}
+    - {fileID: 6758076557152927190, guid: 9f44bc9fbf54b1f449adbbfa5f5cbeef, type: 3}
+    - {fileID: 1707705285083436530, guid: 6ba0ece54e2ec804c9d9c31b9eaa2114, type: 3}
+  tilemap: {fileID: 0}
+  pelletsParent: {fileID: 0}
+  levelPreview: {fileID: 21300000, guid: a64f0370a9a45eb4aa7910aec8df6155, type: 3}
+  pelletsToAppearFruit: 35

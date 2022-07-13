@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2e31fd4ac617a45448c0e1f407611432
+  - enabled: 1
+    path: Assets/Scenes/Classic.unity
+    guid: c2019c42bd3f29b4389f5139242edb32
+  - enabled: 1
+    path: Assets/Scenes/Blockades.unity
+    guid: 00db61bf43fe5164fa0c08950fcf6d5d
+  - enabled: 1
+    path: Assets/Scenes/Volcanic.unity
+    guid: 51a831faeb54de341931a12bfd5af79f
+  m_configObjects: {}

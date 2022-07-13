@@ -1,0 +1,7 @@
+Game: Pac-Man
+Subject: EVERYTHING
+Copyright: Namco-Bandai
+Sprite Ripper: Techokami
+Hosting Permissions: The Spriters Resource
+		     holenet.info
+Notes: Includes assets from the latest versions of the game, as well as previous versions (Tournaments and the old iOS port)

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40647b71b7fb1b84bbd735cc2edc1360, type: 3}
+  m_Name: Volcanic
+  m_EditorClassIdentifier: 
+  mazeName: Volcanic
+  mazeActs:
+  - fruitsToAppear:
+    - {fileID: 8332027565497771990, guid: c6543faea487ea54898c8de970076850, type: 3}
+    - {fileID: 5970415065398937664, guid: e8e426a99d43c3646a27457808b1a7dc, type: 3}
+    - {fileID: 6221428478856040795, guid: c24814191cda7e34e95b461b04c0f537, type: 3}
+    - {fileID: 2392444039825903005, guid: b43d95287a73aed479a20d8831257d3d, type: 3}
+    - {fileID: 6861639302171727236, guid: 1ed2bfc8c7d5e064daefda14c6e4c85a, type: 3}
+  - fruitsToAppear:
+    - {fileID: 2137867588993622603, guid: 557003a30f37d5d49883442fb4f5e724, type: 3}
+    - {fileID: 9064051961007023138, guid: 241c0b6ea763802409cb0b4aceff89bd, type: 3}
+    - {fileID: 5766062132042616913, guid: e7e64c72cea343a449bf6c6eebb79f5a, type: 3}
+    - {fileID: 3577581302735139706, guid: c63ae94563a701d4381f8f715842174c, type: 3}
+    - {fileID: 6309625153078687101, guid: 550751b1c45fa4d42815b2ffab20ab44, type: 3}
+  - fruitsToAppear:
+    - {fileID: 3435308298021473793, guid: d66042ed7f5801846b12ef3337b54e82, type: 3}
+    - {fileID: 4199052360238506851, guid: 60c002e8dd4c395488c71f5afad1c78a, type: 3}
+    - {fileID: 330005269399599809, guid: b294c6c4ab74db6458311bafac907612, type: 3}
+    - {fileID: 7402715762839071312, guid: 0eafacfe6465e6847adb5059b2f5b599, type: 3}
+    - {fileID: 6931000630354535220, guid: 71717327c7e6a2e44a37c13e709d9c17, type: 3}
+  tilemap: {fileID: 0}
+  pelletsParent: {fileID: 0}
+  levelPreview: {fileID: 21300000, guid: bb8220212de5a3746810a3a8d746dff5, type: 3}
+  pelletsToAppearFruit: 35
